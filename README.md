@@ -1,5 +1,5 @@
 # Amorous
-A Korrasami One Shot Collection
+A Korrasami  one shot collection.
 
 
 ## NSFW Warning
@@ -7,26 +7,25 @@ A Korrasami One Shot Collection
 The works in this portfolio are rated mature/explicit. Read at your own discretion.
 
 
-## What the fuck is this page?
+## What the fuck is this?
 
-This page is Caelli being extra. I make Korrasami fanart sometimes, and try to dabble in fanfics (rarely, potentially may even be just this once, lol). I'm not particularly great at them but I needed a creative outlet for these fandom feels.  
+This is Caelli being extra. I make Korrasami fanart sometimes, and wanting to try a hand in fanfics (I imagine this happening rarely, potentially may even be just this once, lol). I'm not particularly great at them but I needed a creative outlet for these fandom feels.  
 
-Long story short, sometimes I make something that involves both, and I want to present it in a way that I probably can't on socials. This project in particular is a series of thirsty nsfw Korrasami one shot fics with accompanying fanart.
+Long story short, sometimes I make something that involves both, and I want to present it in a way that I probably can't on socials. This project in particular is (potentially) a series of thirsty nsfw Korrasami one shot fics with accompanying fanart.
 
 Also I'm extra af.
 
-### Why this format in particular?
+### Why this format?
 
-Web Design/Development is also an interest of mine. I actually planned for this to be a little more involved, like an actual personal portfolio site of sorts, as I've wanted to explore new technologies and build something as I learn. But that requires time and I haven't mangaged to finish it. And as personal projects usually goes, may never see the day of light. Haha
+Web Design/Development is also an interest of mine. I actually planned for this to be a little more involved, like an actual personal portfolio site of sorts (for a bunch of stuff, not just this smut story picture book nonsense), as I've wanted to explore new technologies and build something as I learn. But that requires time and I haven't mangaged to finish it. And as personal projects usually goes, may never see the day of light. Haha
 
-So for now it's going to be some random unrelated one pagers.
+So as for right now now this things going to be some random unrelated one pagers.
 
 
 ## Works in this Collection
 
-- Belong To You
-- Lavender and Velvet
-- All To You
+- [Belong To You](belong-to-you/)
+- ...
 
 
 ## Socials
