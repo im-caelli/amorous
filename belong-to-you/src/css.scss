@@ -340,6 +340,10 @@ header {
 
   &.pull-btn {
     justify-content: flex-start;
+
+    @media #{$lg-break} {
+      justify-content: flex-end;
+    }
   }
 
   @media #{$md-break} {
