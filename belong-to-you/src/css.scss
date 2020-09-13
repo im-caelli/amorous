@@ -63,7 +63,7 @@ header {
 .nav {
   position: fixed;
   left: 0;
-  top: 1.75rem;
+  top:0;
   display: flex;
   height: 100%;
   z-index: 99;
@@ -82,7 +82,7 @@ header {
       font-size: 1rem;
       color: $light;
       background-color: $primary;
-      transition: all .3s ease-in-out;
+      // transition: all .3s ease-in-out;
 
       &:hover {
         background-color: $accent;
@@ -94,7 +94,7 @@ header {
 
       &:last-child {
         position: absolute;
-        bottom: 5rem;
+        bottom: 0;
 
         a {
           transition: none;
