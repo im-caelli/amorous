@@ -1,4 +1,4 @@
-# Amourous
+# Amorous
 A Korrasami one shot collection.
 
 
@@ -21,7 +21,7 @@ Web Design/Development is also an interest of mine. I actually planned for this 
 
 So as for right now this is going to be some random unrelated one pagers.
 
-If you have any suggestions or find any bugs, feel free to let me know here: [Issues](https://github.com/im-caelli/amourous/issues)
+If you have any suggestions or find any bugs, feel free to let me know here: [Issues](https://github.com/im-caelli/amorous/issues)
 
 ## Works in this Collection
 
