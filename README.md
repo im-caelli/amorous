@@ -1,5 +1,5 @@
 # Amourous
-A Korrasami  one shot collection.
+A Korrasami one shot collection.
 
 
 ## NSFW Warning
