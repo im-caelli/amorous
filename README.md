@@ -19,8 +19,9 @@ Also I'm extra af.
 
 Web Design/Development is also an interest of mine. I actually planned for this to be a little more involved, like an actual personal portfolio site of sorts (for a bunch of stuff, not just this smut story picture book nonsense), as I've wanted to explore new technologies and build something as I learn. But that requires time and I haven't mangaged to finish it. And as personal projects usually goes, may never see the day of light. Haha
 
-So as for right now now this things going to be some random unrelated one pagers.
+So as for right now this is going to be some random unrelated one pagers.
 
+If you have any suggestions or find any bugs, feel free to let me know here: [Issues](https://github.com/im-caelli/amourous/issues)
 
 ## Works in this Collection
 
