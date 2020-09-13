@@ -1,4 +1,4 @@
-# Amorous
+# Amourous
 A Korrasami  one shot collection.
 
 
