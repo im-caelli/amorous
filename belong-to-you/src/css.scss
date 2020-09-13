@@ -312,6 +312,11 @@ header {
   font-family: $font-text;
 
   transition: color .3s ease-in-out;
+
+  p {
+    margin-bottom: 2rem;
+  }
+  
 }
 
 // Fade IN
@@ -456,7 +461,7 @@ header {
 // Formatting
 
 hr {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   transition: border-top-color .3s ease-in-out;
 }
