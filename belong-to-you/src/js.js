@@ -4,7 +4,7 @@ $(document).ready(function(){
   $('#back-to-top').hide();
 
   $(window).scroll(function() {
-		if($(this).scrollTop() != 0) {
+		if($(this).scrollTop() != 600) {
 			$('#back-to-top').fadeIn("slow");
 		} else {
 			$('#back-to-top').fadeOut("slow");
