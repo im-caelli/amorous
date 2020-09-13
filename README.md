@@ -1,5 +1,5 @@
 # Amorous
-A Korrasami One Shot Collection
+A Korrasami  one shot collection.
 
 
 ## NSFW Warning
@@ -24,7 +24,7 @@ So as for right now now this things going to be some random unrelated one pagers
 
 ## Works in this Collection
 
-- Belong To You
+- [Belong To You](belong-to-you/)
 - ...
 
 
