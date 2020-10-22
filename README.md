@@ -28,7 +28,6 @@ If you have any suggestions or find any bugs, feel free to let me know here: [Is
 - [Belong To You](belong-to-you/)
 - ...
 
-
 ## Socials
 
 - I typically dump stuff here:
@@ -39,3 +38,4 @@ If you have any suggestions or find any bugs, feel free to let me know here: [Is
   - [im.caelli on Instagram](https://www.instagram.com/im.caelli/)
   - [im-caelli on Reddit](https://www.reddit.com/user/im-caelli)
 
+[![kofi.com/caelli](img/kofi.png)](https://kofi.com/caelli)
