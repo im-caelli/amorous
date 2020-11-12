@@ -1,9 +1,9 @@
 // BS Utility
 
 // Bootstrap
-@import '../../../../_common/bootstrap-4.5.2/scss/_functions.scss';
-@import '../../../../_common/bootstrap-4.5.2/scss/_mixins.scss';
-@import '../../../../_common/bootstrap-4.5.2/scss/_variables.scss';
+@import '../../../_common/bootstrap-4.5.3/scss/functions';
+@import '../../../_common/bootstrap-4.5.3/scss/_mixins.scss';
+@import '../../../_common/bootstrap-4.5.3/scss/_variables.scss';
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Poppins&display=swap');
 
@@ -308,7 +308,7 @@ header {
   max-width: 1000px;
   margin: 2rem auto;
   padding: 0 3.5rem;
-  font-size: 1.25rem;
+  font-size: 1rem;
   font-family: $font-text;
 
   transition: color .3s ease-in-out;
