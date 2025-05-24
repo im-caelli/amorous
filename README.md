@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This project is **NSFW** and is **not** intended for everyone. Discretion is advised.
+
 # Amorous
 A Korrasami one shot collection.
 
